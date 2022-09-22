@@ -1,5 +1,6 @@
 # 밥 한끼 먹자
 > **2022 SW Contest Project**
+> **Organization to My Github**
 
 ## Frontend
 ### Developer
