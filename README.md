@@ -1,4 +1,4 @@
-# 꿈 한 끼
+# 밥 한 끼 하자
 > **2022 SW Contest Project** <br>
 > **Organization to My Github**
 
